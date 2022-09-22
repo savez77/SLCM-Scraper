@@ -1,0 +1,517 @@
+1660367872772	geckodriver	INFO	Listening on 127.0.0.1:45965
+1660367873782	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileX11EQ5"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660367874391	Marionette	INFO	Marionette enabled
+1660367874397	Marionette	INFO	Listening on port 40209
+1660367874579	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileX11EQ5/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1660367883405	Marionette	INFO	Stopped listening on port 40209
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660367989502	geckodriver	INFO	Listening on 127.0.0.1:41215
+1660367989505	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileoJAJiB"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660367990133	Marionette	INFO	Marionette enabled
+1660367990136	Marionette	INFO	Listening on port 36883
+1660367990299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoJAJiB/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1660368028390	Marionette	INFO	Stopped listening on port 36883
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660368033726	geckodriver	INFO	Listening on 127.0.0.1:50245
+1660368033728	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileR94Ijj"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660368034328	Marionette	INFO	Marionette enabled
+1660368034330	Marionette	INFO	Listening on port 39793
+1660368034499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileR94Ijj/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript warning: https://slcm.manipal.edu/assets/plugins/jQuery-lib/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+JavaScript error: https://slcm.manipal.edu/Scripts/WebForms/MsAjax/MicrosoftAjaxWebForms.js, line 6: TypeError: Sys.WebForms.Res is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1660368071321	Marionette	INFO	Stopped listening on port 39793
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660368117268	geckodriver	INFO	Listening on 127.0.0.1:33583
+1660368117270	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileWBBDMc"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660368117854	Marionette	INFO	Marionette enabled
+1660368117856	Marionette	INFO	Listening on port 35853
+1660368117929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWBBDMc/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript warning: https://slcm.manipal.edu/assets/plugins/jQuery-lib/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://slcm.manipal.edu/assets/plugins/jQuery-lib/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/chart.js, line 382: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/chart.js, line 6: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/academic-chart.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/FinanceDashboard.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/plugins/bootstrap/js/bootstrap.min.js, line 6: TypeError: e[0] is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1660368167115	Marionette	INFO	Stopped listening on port 35853
+1660368190965	geckodriver	INFO	Listening on 127.0.0.1:43761
+1660368190967	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile5xmbuT"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660368191547	Marionette	INFO	Marionette enabled
+1660368191549	Marionette	INFO	Listening on port 42079
+1660368191622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5xmbuT/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript warning: https://slcm.manipal.edu/assets/plugins/jQuery-lib/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://slcm.manipal.edu/assets/plugins/jQuery-lib/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/chart.js, line 382: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/chart.js, line 6: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/academic-chart.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/FinanceDashboard.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/plugins/bootstrap/js/bootstrap.min.js, line 6: TypeError: e[0] is undefined
+1660368208337	Marionette	INFO	Stopped listening on port 42079
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1660369506257	geckodriver	INFO	Listening on 127.0.0.1:51217
+1660369506259	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileCowPzm"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660369506838	Marionette	INFO	Marionette enabled
+1660369506841	Marionette	INFO	Listening on port 44063
+1660369506919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCowPzm/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript warning: https://slcm.manipal.edu/assets/plugins/jQuery-lib/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1660369524568	Marionette	INFO	Stopped listening on port 44063
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660370214322	geckodriver	INFO	Listening on 127.0.0.1:50045
+1660370214325	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile3SquWS"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660370214918	Marionette	INFO	Marionette enabled
+1660370214921	Marionette	INFO	Listening on port 34471
+1660370215005	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3SquWS/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript warning: https://slcm.manipal.edu/assets/plugins/jQuery-lib/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://slcm.manipal.edu/assets/plugins/jQuery-lib/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/chart.js, line 382: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/chart.js, line 6: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/academic-chart.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/FinanceDashboard.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/plugins/bootstrap/js/bootstrap.min.js, line 6: TypeError: e[0] is undefined
+1660370232228	Marionette	INFO	Stopped listening on port 34471
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660370442053	geckodriver	INFO	Listening on 127.0.0.1:57287
+1660370442055	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilep9YlR0"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660370442651	Marionette	INFO	Marionette enabled
+1660370442653	Marionette	INFO	Listening on port 35535
+1660370442736	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilep9YlR0/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1660370448225	Marionette	INFO	Stopped listening on port 35535
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660370516037	geckodriver	INFO	Listening on 127.0.0.1:41211
+1660370516040	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileiL1zxf"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660370516626	Marionette	INFO	Marionette enabled
+1660370516629	Marionette	INFO	Listening on port 42171
+1660370516703	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiL1zxf/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1660370520489	Marionette	INFO	Stopped listening on port 42171
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660370854874	geckodriver	INFO	Listening on 127.0.0.1:37605
+1660370854876	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile4Kolin"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660370855477	Marionette	INFO	Marionette enabled
+1660370855480	Marionette	INFO	Listening on port 44135
+1660370855663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4Kolin/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1660370880256	Marionette	INFO	Stopped listening on port 44135
+1660371109117	geckodriver	INFO	Listening on 127.0.0.1:52421
+1660371109120	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileLs54yv"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660371109717	Marionette	INFO	Marionette enabled
+1660371109719	Marionette	INFO	Listening on port 40479
+1660371109793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLs54yv/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+1660371164043	geckodriver	INFO	Listening on 127.0.0.1:60043
+1660371164046	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileICU1RL"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660371164679	Marionette	INFO	Marionette enabled
+1660371164683	Marionette	INFO	Listening on port 38375
+1660371164845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileICU1RL/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript warning: https://slcm.manipal.edu/assets/plugins/jQuery-lib/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1660371167889	Marionette	INFO	Stopped listening on port 40479
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://slcm.manipal.edu/assets/plugins/jQuery-lib/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/chart.js, line 382: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/chart.js, line 6: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/academic-chart.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/FinanceDashboard.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/plugins/bootstrap/js/bootstrap.min.js, line 6: TypeError: e[0] is undefined
+1660371256798	geckodriver	INFO	Listening on 127.0.0.1:47013
+1660371256800	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileG12tM8"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660371257397	Marionette	INFO	Marionette enabled
+1660371257400	Marionette	INFO	Listening on port 36399
+1660371257476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileG12tM8/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript warning: https://slcm.manipal.edu/assets/plugins/jQuery-lib/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1660371260814	Marionette	INFO	Stopped listening on port 38375
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://slcm.manipal.edu/assets/plugins/jQuery-lib/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/chart.js, line 382: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/chart.js, line 6: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/academic-chart.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/FinanceDashboard.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/plugins/bootstrap/js/bootstrap.min.js, line 6: TypeError: e[0] is undefined
+1660371274850	Marionette	INFO	Stopped listening on port 36399
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660371489509	geckodriver	INFO	Listening on 127.0.0.1:54007
+1660371489512	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile8YxB40"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660371490113	Marionette	INFO	Marionette enabled
+1660371490116	Marionette	INFO	Listening on port 45517
+1660371490289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8YxB40/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript warning: https://slcm.manipal.edu/assets/plugins/jQuery-lib/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://slcm.manipal.edu/assets/plugins/jQuery-lib/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/chart.js, line 382: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/chart.js, line 6: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/academic-chart.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/FinanceDashboard.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/plugins/bootstrap/js/bootstrap.min.js, line 6: TypeError: e[0] is undefined
+1660371507449	Marionette	INFO	Stopped listening on port 45517
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660373033137	geckodriver	INFO	Listening on 127.0.0.1:34717
+1660373033139	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileOGKqg5"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660373033736	Marionette	INFO	Marionette enabled
+1660373033739	Marionette	INFO	Listening on port 36215
+1660373033814	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOGKqg5/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript warning: https://slcm.manipal.edu/assets/plugins/jQuery-lib/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://slcm.manipal.edu/assets/plugins/jQuery-lib/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/chart.js, line 382: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/chart.js, line 6: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/academic-chart.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/FinanceDashboard.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/plugins/bootstrap/js/bootstrap.min.js, line 6: TypeError: e[0] is undefined
+1660373050888	Marionette	INFO	Stopped listening on port 36215
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660373072910	geckodriver	INFO	Listening on 127.0.0.1:52515
+1660373072913	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile1HhHKc"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660373073523	Marionette	INFO	Marionette enabled
+1660373073526	Marionette	INFO	Listening on port 33055
+1660373073695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1HhHKc/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript warning: https://slcm.manipal.edu/assets/plugins/jQuery-lib/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://slcm.manipal.edu/assets/plugins/jQuery-lib/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/chart.js, line 382: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/chart.js, line 6: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/academic-chart.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/FinanceDashboard.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/plugins/bootstrap/js/bootstrap.min.js, line 6: TypeError: e[0] is undefined
+1660373090755	Marionette	INFO	Stopped listening on port 33055
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660373181453	geckodriver	INFO	Listening on 127.0.0.1:58071
+1660373181456	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile6QoOHV"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660373182053	Marionette	INFO	Marionette enabled
+1660373182056	Marionette	INFO	Listening on port 44443
+1660373182128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6QoOHV/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript warning: https://slcm.manipal.edu/assets/plugins/jQuery-lib/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://slcm.manipal.edu/assets/plugins/jQuery-lib/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/chart.js, line 382: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/chart.js, line 6: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/academic-chart.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/FinanceDashboard.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/plugins/bootstrap/js/bootstrap.min.js, line 6: TypeError: e[0] is undefined
+1660373199761	Marionette	INFO	Stopped listening on port 44443
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660373204955	geckodriver	INFO	Listening on 127.0.0.1:48387
+1660373204957	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilemqy5Jf"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660373205555	Marionette	INFO	Marionette enabled
+1660373205557	Marionette	INFO	Listening on port 46675
+1660373205632	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemqy5Jf/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript warning: https://slcm.manipal.edu/assets/plugins/jQuery-lib/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://slcm.manipal.edu/assets/plugins/jQuery-lib/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/chart.js, line 382: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/chart.js, line 6: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/academic-chart.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/FinanceDashboard.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/plugins/bootstrap/js/bootstrap.min.js, line 6: TypeError: e[0] is undefined
+1660373222801	Marionette	INFO	Stopped listening on port 46675
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660373233607	geckodriver	INFO	Listening on 127.0.0.1:44953
+1660373233610	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile4BkIqq"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660373234225	Marionette	INFO	Marionette enabled
+1660373234228	Marionette	INFO	Listening on port 33845
+1660373234403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4BkIqq/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript warning: https://slcm.manipal.edu/assets/plugins/jQuery-lib/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://slcm.manipal.edu/assets/plugins/jQuery-lib/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/chart.js, line 382: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/chart.js, line 6: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/academic-chart.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/FinanceDashboard.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/plugins/bootstrap/js/bootstrap.min.js, line 6: TypeError: e[0] is undefined
+1660373251869	Marionette	INFO	Stopped listening on port 33845
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660374968278	geckodriver	INFO	Listening on 127.0.0.1:56189
+1660374968281	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileDbmwrW"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660374968873	Marionette	INFO	Marionette enabled
+1660374968876	Marionette	INFO	Listening on port 42301
+1660374968961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDbmwrW/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript warning: https://slcm.manipal.edu/assets/plugins/jQuery-lib/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://slcm.manipal.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://slcm.manipal.edu/assets/plugins/jQuery-lib/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/chart.js, line 382: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/chart.js, line 6: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/academic-chart.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/FinanceDashboard.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/plugins/bootstrap/js/bootstrap.min.js, line 6: TypeError: e[0] is undefined
+1660374986231	Marionette	INFO	Stopped listening on port 42301
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1663846225836	geckodriver	INFO	Listening on 127.0.0.1:58419
+1663846226839	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile01p3iM"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663846227814	Marionette	INFO	Marionette enabled
+1663846227817	Marionette	INFO	Listening on port 40697
+1663846227906	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile01p3iM/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript warning: https://slcm.manipal.edu/assets/plugins/jQuery-lib/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1663846234890	Marionette	INFO	Stopped listening on port 40697
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1663859604371	geckodriver	INFO	Listening on 127.0.0.1:39041
+1663859605372	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileD2rswX"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663859605957	Marionette	INFO	Marionette enabled
+1663859605959	Marionette	INFO	Listening on port 44659
+1663859606032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileD2rswX/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript warning: https://slcm.manipal.edu/assets/plugins/jQuery-lib/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://slcm.manipal.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://slcm.manipal.edu."
+JavaScript warning: https://slcm.manipal.edu/assets/plugins/jQuery-lib/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/chart.js, line 382: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/chart.js, line 6: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/academic-chart.js, line 4: TypeError: document.getElementById(...) is null
+JavaScript error: https://slcm.manipal.edu/assets/vendor/js/FinanceDashboard.js, line 4: TypeError: document.getElementById(...) is null
+1663859624578	Marionette	INFO	Stopped listening on port 44659
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
